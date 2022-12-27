@@ -14,6 +14,7 @@
   </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/educa" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/env/educa" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.10 (educa) (3)" jdkType="Python SDK" />
