@@ -17,7 +17,7 @@
       <sourceFolder url="file://$MODULE_DIR$/educa" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/env/educa" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.10 (educa) (3)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.10" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
@@ -29,6 +29,8 @@
     <option name="TEMPLATE_FOLDERS">
       <list>
         <option value="$MODULE_DIR$/courses/templates" />
+        <option value="$MODULE_DIR$/chat/templates" />
+        <option value="$MODULE_DIR$/students/templates" />
       </list>
     </option>
   </component>

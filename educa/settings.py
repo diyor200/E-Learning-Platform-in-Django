@@ -35,6 +35,7 @@ INSTALLED_APPS = [
     # local apps
     'courses.apps.CoursesConfig',
     'students.apps.StudentsConfig',
+    'chat.apps.ChatConfig',
     # built in apps
     'django.contrib.admin',
     'django.contrib.auth',
